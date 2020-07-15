@@ -1,0 +1,13 @@
+5
+8
+Q: is it alive?
+Q: do cows produce it?
+Q: is it edible
+A: bacon
+A: computer
+A: milk
+Q: is it pink?
+Q: does it eat humans?
+A: dr. Curtis
+A: shark
+A: pig
